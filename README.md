@@ -1,4 +1,4 @@
-# VBA-Challenge
+# VBA - Challenge - Instructions
 VBA Challenge for 2021 Data Analytics Bootcamp 
 The VBA of Wall Street
 Background
